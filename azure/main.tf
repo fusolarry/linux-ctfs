@@ -17,7 +17,7 @@ terraform {
 variable "az_region" {
   description = "The region to deploy the CTF lab"
   type        = string
-  default     = "East US"
+  default     = "italynorth"
 }
 
 variable "subscription_id" {
